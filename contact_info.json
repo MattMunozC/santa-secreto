@@ -1,0 +1,11 @@
+{
+    "participantes": [
+            //NOMBRE DE LOS PARTICIPANTES
+        ],
+    "direcciones": {
+            //DIRECCION DE LOS PARTICIPANTES
+        },
+    "correos": {
+            //CORREO DE LOS PARTICIPANTES
+        }
+}
