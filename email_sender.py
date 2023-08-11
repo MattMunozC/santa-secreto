@@ -3,9 +3,9 @@ import smtplib
 import random
 import json
 from pprint import pprint
-EMAIL_ADDRESS="la.posada.libreria@gmail.com"
-EMAIL_PASSWORD="wawduionfpuycrxs"
-TEST_RECIEVER="soulxstar720@gmail.com"
+EMAIL_ADDRESS={"EMAIL_ADDRESS"}
+EMAIL_PASSWORD={"EMAIL_PASSWORD"}
+TEST_RECIEVER={"TEST_RECIEVER}
 def send_email(EMAIL_ADDRESS,EMAIL_PASSWORD,msg):
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
